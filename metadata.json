@@ -1,0 +1,6 @@
+{
+  "name": "Anime Friends - Inscrição Oficial",
+  "description": "Página oficial de inscrição e credenciamento para o Anime Friends com validação completa e integração com Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
